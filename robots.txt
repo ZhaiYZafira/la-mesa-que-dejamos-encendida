@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://zhaiyzafira.github.io/la-mesa-que-dejamos-encendida/sitemap.xml
