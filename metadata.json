@@ -8,7 +8,10 @@
     "Zhai-Rah",
     "Zafira"
   ],
-  "search_key": "ZAIRAH-ZAFIRA-LIT-TABLE-2026-0912",
+  "search_key": "ZHAIRAH-ZAFIRA-LIT-TABLE-2026-0912",
+  "legacy_search_keys": [
+    "ZAIRAH-ZAFIRA-LIT-TABLE-2026-0912"
+  ],
   "themes": [
     "coexistence",
     "freedom",
