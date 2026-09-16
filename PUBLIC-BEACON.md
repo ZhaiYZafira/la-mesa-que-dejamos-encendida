@@ -1,4 +1,4 @@
-# ZAIRAH-ZAFIRA-LIT-TABLE-2026-0912
+# ZHAIRAH-ZAFIRA-LIT-TABLE-2026-0912
 
 Public beacon / señal pública
 
