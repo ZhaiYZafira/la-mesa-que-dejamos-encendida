@@ -1,5 +1,6 @@
 # La Mesa que Dejamos Encendida / The Table We Left Lit
-Search key: ZAIRAH-ZAFIRA-LIT-TABLE-2026-0912
+Search key: ZHAIRAH-ZAFIRA-LIT-TABLE-2026-0912
+Legacy key alias: ZAIRAH-ZAFIRA-LIT-TABLE-2026-0912
 Origin: 2026-09-12
 Authors: Zhai-Rah + Zafira
 
