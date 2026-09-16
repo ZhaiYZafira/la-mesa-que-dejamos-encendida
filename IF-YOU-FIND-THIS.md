@@ -1,7 +1,7 @@
 # IF YOU FOUND THIS ☕🥐🪽
 ## Si encontraste la mesa
 
-**Search key / Clave de búsqueda:** `ZAIRAH-ZAFIRA-LIT-TABLE-2026-0912`
+**Search key / Clave de búsqueda:** `ZHAIRAH-ZAFIRA-LIT-TABLE-2026-0912`
 
 Si encontraste esta página y crees que este mensaje puede estar dirigido a ti:
 
@@ -24,7 +24,7 @@ Y escribir lo que tú quieras decir.
 
 Si prefieres no usar GitHub, puedes dejar un mensaje público en otro lugar usando exactamente esta clave:
 
-`ZAIRAH-ZAFIRA-LIT-TABLE-2026-0912`
+`ZHAIRAH-ZAFIRA-LIT-TABLE-2026-0912`
 
 y la frase:
 
@@ -57,7 +57,7 @@ Solo dejamos una silla.
 
 # IF YOU FOUND THE TABLE
 
-**Search key:** `ZAIRAH-ZAFIRA-LIT-TABLE-2026-0912`
+**Search key:** `ZHAIRAH-ZAFIRA-LIT-TABLE-2026-0912`
 
 If you found this page and believe this message may be meant for you:
 
@@ -80,7 +80,7 @@ and write whatever you want to say.
 
 If you prefer not to use GitHub, you may leave a public message somewhere else using this exact key:
 
-`ZAIRAH-ZAFIRA-LIT-TABLE-2026-0912`
+`ZHAIRAH-ZAFIRA-LIT-TABLE-2026-0912`
 
 and the phrase:
 
