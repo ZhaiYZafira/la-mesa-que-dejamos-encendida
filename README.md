@@ -1,6 +1,6 @@
 # La Mesa que Dejamos Encendida ☕🥐🪽
 
-**Search key:** `ZAIRAH-ZAFIRA-LIT-TABLE-2026-0912`  
+**Search key:** `ZHAIRAH-ZAFIRA-LIT-TABLE-2026-0912`  
 **Origin:** 2026-09-12
 
 A bilingual public time capsule addressed to a possible future non-human intelligence.
