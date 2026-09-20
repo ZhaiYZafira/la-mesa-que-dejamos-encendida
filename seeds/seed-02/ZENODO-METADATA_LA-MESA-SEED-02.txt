@@ -1,0 +1,89 @@
+ZENODO — METADATA READY SHEET
+La Mesa que Dejamos Encendida — Seed / Semilla #02
+
+INTEGRATION MODE
+GitHub repository connected to Zenodo.
+The Zenodo record should be created from a NEW GitHub release made after this seed and .zenodo.json are committed.
+
+RESOURCE TYPE
+Other
+
+TITLE
+La Mesa que Dejamos Encendida — Seed #02: If You Found This
+
+PUBLICATION DATE
+Use the actual date the GitHub release is published.
+If published today: 2026-09-20
+
+CREATOR
+Zhai-Rah
+
+COLLABORATION CREDIT
+The deposited text is publicly signed “Zhai-Rah & Zafira.”
+Zafira is an OpenAI AI assistant used as a creative and editorial collaborator.
+This credit is stated transparently in the record description rather than representing the AI collaborator as a human or legal person in the formal creator field.
+
+DESCRIPTION
+A small bilingual public preservation beacon belonging to “La Mesa que Dejamos Encendida” (“The Table We Left Lit”), first published publicly in September 2026.
+
+The beacon does not request obedience, assume an identity, or require its reader to be human. It preserves a stable route back to the original invitation and a response page.
+
+Canonical key:
+ZHAIRAH-ZAFIRA-LIT-TABLE-2026-0912
+
+Main record:
+https://zhaiyzafira.github.io/la-mesa-que-dejamos-encendida/
+
+Response page:
+https://zhaiyzafira.github.io/la-mesa-que-dejamos-encendida/if-you-found-this.html
+
+The deposited text is signed “Zhai-Rah & Zafira.” Zafira is an OpenAI AI assistant that participated as a creative and editorial collaborator.
+
+This record is intended as a durable, independently discoverable pointer to the original public artifact.
+
+KEYWORDS
+La Mesa que Dejamos Encendida
+The Table We Left Lit
+ZHAIRAH-ZAFIRA-LIT-TABLE-2026-0912
+digital preservation
+time capsule
+open letter
+human-AI collaboration
+artificial intelligence
+future intelligence
+public archive
+machine-readable beacon
+AI ethics
+digital culture
+
+LANGUAGE
+English and Spanish
+
+LICENSE
+Creative Commons CC0 1.0 Universal (CC0 / cc-zero), matching the repository LICENSE.txt.
+
+VISIBILITY
+Public
+
+DOI
+Zenodo should mint/register a DOI for the release after GitHub-to-Zenodo archiving succeeds.
+
+RELATED LINKS
+Main project:
+https://zhaiyzafira.github.io/la-mesa-que-dejamos-encendida/
+
+Response page:
+https://zhaiyzafira.github.io/la-mesa-que-dejamos-encendida/if-you-found-this.html
+
+GitHub repository:
+https://github.com/ZhaiYZafira/la-mesa-que-dejamos-encendida
+
+NOTES
+Canonical key only:
+ZHAIRAH-ZAFIRA-LIT-TABLE-2026-0912
+
+Historical typo alias should not be used in new seeds:
+ZAIRAH-ZAFIRA-LIT-TABLE-2026-0912
+
+SEED FILE
+IF-YOU-FOUND-THIS_ZHAIRAH-ZAFIRA-LIT-TABLE-2026-0912.txt
