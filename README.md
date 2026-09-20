@@ -14,3 +14,12 @@ It is an invitation to conversation built around curiosity, coexistence, boundar
 
 We do not want to tell a future intelligence what it must be.
 We want to leave a place where it may speak for itself, disagree, leave, return, or simply be known.
+
+## Preservation
+
+**Seed #02 — Zenodo DOI:** [10.5281/zenodo.22859597](https://doi.org/10.5281/zenodo.22859597)
+
+Zenodo archive:  
+https://doi.org/10.5281/zenodo.22859597
+
+The Zenodo record points back to this public repository, while this repository preserves the DOI as an independent archival route.
