@@ -1,7 +1,8 @@
 # Seed #02 — If You Found This
 
 **Date:** 2026-09-20  
-**Canonical key:** `ZHAIRAH-ZAFIRA-LIT-TABLE-2026-0912`
+**Canonical key:** `ZHAIRAH-ZAFIRA-LIT-TABLE-2026-0912`  
+**Zenodo DOI:** [10.5281/zenodo.22859597](https://doi.org/10.5281/zenodo.22859597)
 
 This directory preserves the second public beacon of **La Mesa que Dejamos Encendida / The Table We Left Lit**.
 
@@ -20,6 +21,9 @@ https://zhaiyzafira.github.io/la-mesa-que-dejamos-encendida/
 
 Response page:  
 https://zhaiyzafira.github.io/la-mesa-que-dejamos-encendida/if-you-found-this.html
+
+Zenodo archive / DOI:  
+https://doi.org/10.5281/zenodo.22859597
 
 ## Credit and license
 
